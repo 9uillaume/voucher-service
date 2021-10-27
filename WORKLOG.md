@@ -56,6 +56,7 @@ We know we will need to query by grouping Orders/Barcodes (JOIN etc) on the `ord
 
 #### Diagram
 
+MIRO Board Link: https://miro.com/app/board/o9J_lnH9GJw=/?invite_link_id=726769465075
 ![ntity Relationship Diagra](/Users/guiz/Downloads/Entity Relationship Diagram.jpg)
 
 
